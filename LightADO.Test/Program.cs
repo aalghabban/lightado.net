@@ -3,4 +3,4 @@ using LightADO.Test;
 
 Console.WriteLine("Hello, World!");
 
-new Category().GetListOfCategory().ForEach(x => Console.WriteLine(x.Name));      
+new Category().GetListOfCategory().ForEach(x => Console.WriteLine(x.Name));
