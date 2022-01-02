@@ -2,6 +2,7 @@
 ![enter image description here](https://api.nuget.org/v3-flatcontainer/lightado.net/6.0.2/icon)
 
 # Welcome to LightAdo!
+[![NuGet version](https://badge.fury.io/nu/LightAdo.net.svg)](https://badge.fury.io/nu/LightAdo.net)
 
 Let's face it, writing SQL Server validation, casting and business logic boilerplate is a drag. That's why we wrote LighAdo 
 
